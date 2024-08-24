@@ -23,7 +23,7 @@ Brief description of the project, technologies used, and your role in the projec
 
 ## 📚 Education
 
-- **Padre Conceicao College of Engineering** - Bachelor's Degree in Electronics and Computer Engineering
+- **Bachelor's Degree in Electronics and Computer Engineering**
   - Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management, Software Design & Architecture, microcontrollers, ALP
 
 ## 🌱 What I'm Learning
