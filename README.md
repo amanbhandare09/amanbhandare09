@@ -2,141 +2,78 @@
 
 <div align="center">
   
-  **Full-Stack Developer | Blockchain Enthusiast | Combat Robotics Champion**
+  **Full-Stack Developer | Blockchain Explorer | Robot Fighter**
   
-  *Currently turning caffeine into code at Revature ☕ → 💻*
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amanbhandare09.amanbhandare09)
+  *Turning coffee into code at Revature ☕ → 💻*
   
 </div>
 
 ---
 
-## 🎭 About Me (The TL;DR Version)
+## 🎭 The Quick Intro
 
 ```javascript
 const aman = {
   location: "Goa, India 🏖️",
-  education: "Electronics & Computer Engineering + Robotics & AI",
-  currentlyDoing: "Breaking prod-- I mean, building scalable applications at Revature",
-  previousLife: "Made robots fight each other (and won prizes for it)",
-  funFact: "I can debug your code AND your existential crisis",
-  lifePhilosophy: "If it compiles on the first try, you're not trying hard enough"
+  role: "Software Developer Trainee @ Revature",
+  previousLife: "Made robots fight (and won)",
+  currentObsession: "Blockchain & Decentralized everything",
+  philosophy: "If it works on the first try, something's wrong"
 };
 ```
 
-> **Plot Twist:** Started with Electronics, fell in love with Software, now can't decide if I prefer debugging circuits or code. ¯\\\_(ツ)_/¯
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • JavaScript • TypeScript • SQL
+
+**Backend:** Node.js • NestJS • Flask • PostgreSQL
+
+**Frontend:** React.js • HTML/CSS • HTMX
+
+**DevOps:** Docker • AWS • Git • Kubernetes
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🚀 Featured Projects
 
-**Languages I Speak** (Better than I speak to humans)
-```
-Python  ████████████████░░  85%  // My first love
-JavaScript  ████████████████░░  85%  // The chaotic friend I can't live without
-SQL  ██████████████░░░░  70%  // SELECT * FROM skills WHERE awesome = true
-TypeScript  ███████████░░░░░░  55%  // JavaScript, but with trust issues
-```
+### 🎉 [EventHive](https://github.com/amanbhandare09) - Event Management
+*Flask | Docker | AWS | CI/CD*
 
-**Backend Wizardry** 🧙‍♂️
-- Node.js, Express.js, NestJS (Because who needs sleep?)
-- Flask (Python's gift to lazy developers)
-- PostgreSQL (My favorite place to store secrets)
-- REST APIs (Making servers chat since 2024)
+Platform for creating and managing events. Deployed with GitHub Actions because automation > manual labor.
 
-**Frontend Sorcery** ✨
-- React.js (Hooks > Class Components, fight me)
-- HTML/CSS (Yes, I can center a div)
-- HTMX (The hipster choice)
+### 🔐 [Safe-Trace](https://github.com/amanbhandare09) - Blockchain Authentication
+*Node.js | Solidity | React.js | PostgreSQL*
 
-**DevOps & Other Cool Stuff** 🚀
-- Docker (Containerizing everything, including my feelings)
-- AWS (Where my money goes to ~~die~~ deploy)
-- Git (Saving my bacon since day one)
-- Kubernetes (Still learning to pronounce it correctly)
+Fighting counterfeit products with smart contracts and real-time fraud detection.
+
+### 📈 [Overlaprr](https://github.com/amanbhandare09) - Stock Tracker
+*NestJS | Python RPA | Next.js*
+
+Compares mutual funds to find common stocks. Features Python bots doing the boring work.
 
 ---
 
-## 🎯 What I'm Currently Up To
+## 🎯 Currently Learning
 
-- 🔗 **Deep diving into Blockchain** - Because regular databases weren't confusing enough
-- 🤖 **Building with Raspberry Pi** - Giving life to random objects around my house
-- 📚 **Learning Advanced NestJS** - Making my backend fancier than my frontend
-- 🎮 **Side Quest:** Trying to convince people that "works on my machine" is a valid deployment strategy
-
----
-
-## 🏆 Projects That Didn't Break (Yet)
-
-### 🎉 EventHive - Event Management Platform
-*Python Flask | AWS | Docker | CI/CD*
-- Built a platform where people can actually organize their lives
-- Deployed using Docker (because manual deployment is so 2015)
-- Used GitHub Actions (robots deploying robot code, inception much?)
-- [Check it out →](https://github.com/amanbhandare09)
-
-### 🔐 Safe-Trace - Blockchain Product Authentication
-*Node.js | PostgreSQL | React.js | Solidity | Blockchain*
-- Fighting counterfeit products with the power of decentralization
-- Smart contracts that are actually smart (unlike me at 3 AM)
-- Real-time fraud detection because fake products deserve to be called out
-- [Explore the code →](https://github.com/amanbhandare09)
-
-### 📈 Overlaprr - Stock Tracker App
-*NestJS | PostgreSQL | Python | RPA | Next.js*
-- Compares mutual funds to find common stocks (stock stalking, but legal)
-- Built Python RPA bots (robots gathering data so I don't have to)
-- Automated because manual data entry is a punishment
-- [See it in action →](https://github.com/amanbhandare09)
+🔗 Blockchain & Decentralized Systems  
+🤖 Raspberry Pi Projects  
+🚀 Advanced NestJS & TypeORM
 
 ---
 
-## 🎪 My Other Adventures
-
-**🤖 Team BHP Robotics - Team Lead**
-- Designed combat robots that actually survived fights
-- Won prizes in national competitions (my robots > your robots)
-- Learned that sometimes violence IS the answer (in robotics)
-
-**🎓 EXACTAS - General Secretary**
-- Organized Techyon (our college's tech fest)
-- Hosted workshops on AI, SQL, and "How to Google Efficiently"
-- Convinced students that coding is cooler than it sounds
-
----
-
-## 📊 GitHub Stats (For the Nerds)
+## 📊 GitHub Stats
 
 <div align="center">
   
   ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbhandare09&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhandare09&layout=compact&theme=radical)
-  
 </div>
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-  [![Spotify](https://novatorem-amanbhandare09.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-  
-</div>
-
----
-
-## 💭 Random Developer Thoughts
-
-> "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else." 
-> 
-> — *Eagleson's Law* (and my entire GitHub)
-
----
-
-## 🤝 Let's Connect! (I Promise I Don't Bite)
+## 🤝 Let's Connect!
 
 <div align="center">
   
@@ -149,47 +86,25 @@ TypeScript  ███████████░░░░░░  55%  // JavaScr
 
 ---
 
-## 📌 Fun Facts About Me
-
-- 🏖️ Based in Goa, but no, I don't go to the beach every day (just most days)
-- 🤖 Built robots before building websites (hardware wounds heal slower than ego wounds from bugs)
-- ☕ Coffee enthusiast (my code quality is directly proportional to caffeine intake)
-- 🎯 CGPA: 8.03 (Proof that I occasionally attended classes)
-- 🎮 Believe that debugging is like being a detective in a crime movie where you're also the murderer
-- 📚 Honours in Robotics & AI (fancy way of saying "I know how to confuse computers")
-
----
-
 <div align="center">
   
-  ### 💡 Pro Tip
+  ### 💡 Fun Facts
   
-  *If you're here looking for perfect code, you're in the wrong place.*
+  🏖️ Living in Goa (yes, the beaches are real)  
+  🤖 Ex-combat robotics team lead  
+  ☕ Coffee-to-code converter  
+  🎯 CGPA: 8.03 (attended *some* classes)
   
-  *But if you're here for working solutions and the occasional clever comment, welcome home! 🏠*
+  ---
+  
+  **⭐ Open to collaborations, coffee chats, and debates about tabs vs spaces**
+  
+  *(Team Spaces)*
   
   ---
   
   ![](https://komarev.com/ghpvc/?username=amanbhandare09&color=blueviolet&style=flat-square)
   
-  **⭐ Feel free to star repositories you find interesting!**
-  
-  **🤝 Open to collaborations, coffee chats, and heated debates about tabs vs spaces**
-  
-  *(Team Spaces, obviously)*
-  
-  ---
-  
-  ```ascii
-  ╔═══════════════════════════════════════════════╗
-  ║  "It's not a bug, it's an undocumented       ║
-  ║   feature waiting to be discovered."         ║
-  ║                                   - Aman      ║
-  ╚═══════════════════════════════════════════════╝
-  ```
-  
-  <sub>⚡ Last updated: When I remembered to update this README</sub>
-  
-  <sub>🚀 This README is open source. Feel free to fork it and make it your own!</sub>
+  <sub>*"It's not a bug, it's an undocumented feature."* - Me, probably</sub>
   
 </div>
