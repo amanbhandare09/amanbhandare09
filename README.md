@@ -26,9 +26,9 @@ const aman = {
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • JavaScript • TypeScript • SQL
+**Languages:** Python • JavaScript • TypeScript • SQL • C#
 
-**Backend:** Node.js • NestJS • Flask • PostgreSQL
+**Backend:** Node.js • NestJS • Flask • PostgreSQL • ASP.NET
 
 **Frontend:** React.js • HTML/CSS • HTMX
 
